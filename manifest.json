@@ -1,0 +1,16 @@
+{
+    "manifest_version": 2,
+    "name": "CCI Auto Card Swiper",
+    "version": "0.1",
+    "content_scripts": [
+        {
+            "matches": [ "https://cci-events.uncc.edu/event/*/register" ],
+            "js": ["autoswiper.js"]
+        }
+    ],
+    "page_action": {
+        "default_icon": {
+            "19": "icon.png"
+        }
+    }
+}
