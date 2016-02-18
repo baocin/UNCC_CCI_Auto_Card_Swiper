@@ -1,5 +1,5 @@
 # UNCC CCI Auto Card Swiper
-Auto confirm agree to terms check box while swiping in students to an event.
+Auto agree to terms while swiping in students to an event.
 
 To install:
 
